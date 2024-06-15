@@ -1,0 +1,25 @@
+{
+  "name": "deployd_ms",
+  "version": "1.0.0",
+  "description": "Service to deploy blender models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianFernandez1620/Cadun_microservice.git"
+  },
+  "keywords": [
+    "deploy"
+  ],
+  "author": "Julian Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulianFernandez1620/Cadun_microservice/issues"
+  },
+  "homepage": "https://github.com/JulianFernandez1620/Cadun_microservice#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
